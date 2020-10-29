@@ -84,6 +84,7 @@
   }
   .partners__title{
     margin: 25px 0 10px 0;
+    font-size: 28px;
   }
   .partners__list{
     margin-bottom: 40px;
@@ -105,7 +106,7 @@
   .partners__title{
     font-size: 21px;
     line-height: 24px;
-    margin: 20px 0 5px 0; 
+    margin: 25px 0 10px 0; 
   }
   .partners__bg{
     font-size: 80px;
